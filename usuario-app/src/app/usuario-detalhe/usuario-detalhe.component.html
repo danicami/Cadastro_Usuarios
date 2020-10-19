@@ -1,0 +1,22 @@
+<div class="example-container mat-elevation-z8">
+  <div class="example-loading-shade"
+       *ngIf="isLoadingResults">
+    <mat-spinner *ngIf="isLoadingResults"></mat-spinner>
+  </div>
+  <div class="button-row">
+    <button mat-flat-button color="accent" [routerLink]="['/usuario']"><mat-icon>list</mat-icon> Voltar</button>
+  </div>
+  <mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-title><h2>{{usuario.nome}}</h2></mat-card-title>
+      <mat-card-subtitle>{{usuario.sobrenome}}</mat-card-subtitle>
+      <mat-card-subtitle>{{usuario.email}}</mat-card-subtitle>
+      <mat-card-subtitle>{{usuario.dataNascimento | date:'dd/MM/yyyy'}}</mat-card-subtitle>
+      <mat-card-subtitle>{{descricaoEscolaridade}}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-actions>
+      <button mat-flat-button color="primary" class="teste" [routerLink]="['/usuario-editar', usuario.id]"><mat-icon>edit</mat-icon> Editar</button>
+      <button mat-flat-button color="warn" (click)="deleteUsuario(usuario.id)" [routerLink]="['/usuario']"><mat-icon>delete</mat-icon> Excluir</button>
+    </mat-card-actions>
+  </mat-card>
+</div>

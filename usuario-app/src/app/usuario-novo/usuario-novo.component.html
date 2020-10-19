@@ -1,0 +1,29 @@
+<div>
+  <h3>Adicionar Novo Usuário</h3>
+</div>
+<form class="example-container" [formGroup]="usuarioForm" (ngSubmit)="addUsuario(usuarioForm.value)">
+  <mat-form-field>
+    <input matInput name="nome" placeholder="Nome" formControlName="nome">
+  </mat-form-field>
+  <mat-form-field>
+    <input  matInput name="sobrenome" placeholder="Sobrenome" formControlName="sobrenome">
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput name="email" placeholder="E-mail" formControlName="email" pattern="[a-zA-Z0-9.-_]{1,}@[a-zA-Z.-]{2,}[.]{1}[a-zA-Z]{2,}">
+  </mat-form-field>
+  <mat-form-field>
+        <input matInput [matDatepicker]="picker2" [max]="currentDate" placeholder="Data Nascimento" formControlName="dataNascimento" />
+        <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Escolaridade</mat-label>
+    <mat-select [(value)]="escolaridade"  formControlName="escolaridade">
+      <mat-option value=1>Infantil</mat-option>
+      <mat-option value=2>Fundamental</mat-option>
+      <mat-option value=3>Médio</mat-option>
+      <mat-option value=4>Superior</mat-option>
+    </mat-select>    
+  </mat-form-field>
+  <button type="submit" [disabled]="!usuarioForm.valid" mat-button color="primary" >Adicionar</button>
+</form>

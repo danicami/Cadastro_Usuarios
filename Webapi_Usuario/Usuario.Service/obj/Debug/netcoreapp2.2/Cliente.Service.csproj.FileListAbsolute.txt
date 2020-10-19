@@ -1,0 +1,14 @@
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Cliente.Service.deps.json
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Cliente.Service.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Cliente.Service.pdb
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.csprojAssemblyReference.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.csproj.CoreCompileInputs.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.AssemblyInfoInputs.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.AssemblyInfo.cs
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.csproj.CopyComplete
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\obj\Debug\netcoreapp2.2\Cliente.Service.pdb
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Infra.pdb
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\Cliente.Service\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb

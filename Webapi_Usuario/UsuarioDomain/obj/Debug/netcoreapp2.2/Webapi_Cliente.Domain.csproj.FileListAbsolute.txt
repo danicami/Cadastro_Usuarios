@@ -1,0 +1,9 @@
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.deps.json
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\bin\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.csprojAssemblyReference.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.csproj.CoreCompileInputs.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.AssemblyInfoInputs.cache
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.AssemblyInfo.cs
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.dll
+D:\Daniela\Cursos\Praxio\Webapi_Cliente\ClienteDomain\obj\Debug\netcoreapp2.2\Webapi_Cliente.Domain.pdb
